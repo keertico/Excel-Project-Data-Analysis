@@ -30,9 +30,9 @@ The dataset used for this project contains real-world data science job informati
 
 ## Dashboard Build
 
-### 📉 Charts
+### Charts
 
-#### 📊 Data Science Job Salaries - Bar Chart
+#### Data Science Job Salaries - Bar Chart
 
 <img src="0_Resources/Images/1_Salary_Dashboard_Chart1.png">
 
@@ -51,9 +51,9 @@ The dataset used for this project contains real-world data science job informati
 -  **Visual Enhancement:** Improved readability and immediate understanding of geographic salary trends.
 -  **Insights Gained:** Enables quick grasp of global salary disparities and highlights high/low salary regions.
 
-### 🧮 Formulas and Functions
+### Formulas and Functions
 
-#### 💰 Median Salary by Job Titles
+#### Median Salary by Job Titles
 
 ```
 =MEDIAN(
